@@ -130,7 +130,8 @@ com.PetStoreAutomation
 
  <h1 align="center">🤝 Contributing :</h1>
 
- 
+ - Contributions are welcome! Feel free to submit issues and pull requests.
+
 
 
 
